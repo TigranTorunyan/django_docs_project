@@ -1,0 +1,5 @@
+1. ROOT_URLCONF ->  How Django processes a request for details.
+2. Coupling -> https://en.wikipedia.org/wiki/Coupling_(computer_programming)
+3. QuerySet API -> https://docs.djangoproject.com/en/2.2/ref/models/querysets/#django.db.models.query.QuerySet.filter
+4. Cross Site Request Forgeries -> ?
+5. To look for more info on generic views
